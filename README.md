@@ -7,5 +7,7 @@
 | [Исследование поездок на такси](https://github.com/AlinaSubb/Data_analyst/blob/master/taxi.ipynb)  | Здесь будет описание  | *- pandas* *- matplotlib* *- seaborn*|
 | [Анализ скорости реакции на заявки](https://github.com/AlinaSubb/Data_analyst/blob/master/reaction_time.ipynb)  | Здесь будет описание  | *- pandas* *- datetime* *- seaborn* *- numpy* *- scipy*|
 | [Исследование пользователей сервиса аренды самокатов GoFast](https://github.com/AlinaSubb/Data_analyst/blob/master/gofast_statistical_hypotheses.ipynb)  | Здесь будет описание  | *- pandas* *- matplotlib* *- seaborn* *- numpy* *- scipy*|
-| [Анализ посещаемости сайта]((https://github.com/AlinaSubb/Data_analyst/blob/master/api_yandex_metrika.ipynb)) | Здесь будет описание  | *- pandas* *- tapi_yandex_metrika* *- json* *- os* *- dotenv* *- requests* *- matplotlib*|
+| [Анализ посещаемости сайта](https://github.com/AlinaSubb/Data_analyst/blob/master/api_yandex_metrika.ipynb)) | Здесь будет описание  | *- pandas* *- tapi_yandex_metrika* *- json* *- os* *- dotenv* *- requests* *- matplotlib*|
 | [Отчёт о продажах в мессенджере](https://github.com/AlinaSubb/Data_analyst/blob/master/telegram_sales_report.ipynb) | Здесь будет описание  | *- pandas* *- sqlalchemy* *- telebot* *- os* *- dotenv* *- pathlib* *- datetime* *- matplotlib* *- pycbrf*|
+| [Исследование эффективности отправленных СМС](https://github.com/AlinaSubb/Data_analyst/blob/master/SMS_3000_AB_test.ipynb) | Здесь будет описание  | *- pandas* *- * *- * *- * *- * *- * *- * *- * *- *|
+| [Проверка влияния нового поискового движка на сайте](https://github.com/AlinaSubb/Data_analyst/blob/master/ab_results.ipynb) | Здесь будет описание  | *- pandas* *- * *- * *- * *- * *- * *- * *- * *- *|
